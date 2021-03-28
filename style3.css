@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border: none;
+    background-color: rgb(58, 197, 104);
+    color: #61122F;
+}
+
+body {
+    background-color: #51e4c4;
+    color: white;
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: #61122F;
+}
+
+p {
+    color: black;
+}
+
+.center {
+    width: 90%;
+    background-color: black;
+}
+
+.container {
+    background-color: black;
+}
+
+.text-center {
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#myNavbar ul li a {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    margin: 10px;
+    color: black;
+}
